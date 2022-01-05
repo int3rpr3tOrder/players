@@ -9,7 +9,7 @@ or Step More:
 
 1. Download "room" as Zip
 2. Extract
-3. Open "readme.md" or "welcome-support.html"
+3. Open "readme.md" or "html.html"
 
 
 Selamat Datang, Anda dapat mengunjungi kedua URL atau Situs diatas untuk Akses atau Iseng Projek Saya.
