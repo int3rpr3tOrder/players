@@ -12,4 +12,7 @@ or Step More:
 3. Open "readme.md" or "welcome-support.html"
 
 
+Selamat Datang, Anda dapat mengunjungi kedua URL atau Situs diatas untuk Akses atau Iseng Projek Saya.
+Dukungan Anda Membakar Mesin Kendali Saya :D
+
 Thank You for Supporting for My Soul .., Peace :D
