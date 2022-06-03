@@ -1,2 +1,4 @@
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superadminister)
+
+Welcome to my github for place repositories of softwares, more my hobbies visit :
+- https://drive.google.com/drive/folders/1bGmo1L-DeJj_yxetP3huxKmldpu4N9xV?usp=sharing
